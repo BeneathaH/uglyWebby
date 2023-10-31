@@ -1,0 +1,63 @@
+h1 {
+    color: #dbbce5;
+    background-color: purple;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    letter-spacing: -1px;
+    line-height: 1;
+    text-align: right;
+}
+
+h3 {
+    color: orange;
+}
+
+
+p {
+    color: #680649;
+    font-family: 'Helvetica Neue', 'Courier New', Courier, monospace;
+    font-size: 14px;
+    line-height: 24px;
+    margin: 0 0 24px;
+    text-align: justify;
+    text-justify: inter-word;
+    border: 2px solid powderblue;
+}
+
+textarea {
+    margin: 80px;
+    width: 400px;
+    height: 50px;
+}
+
+ul, ol {
+    color: red;
+    background-color: green;
+    font-size: larger;
+    margin: 20px;
+    padding: 0;
+}
+
+li {
+    font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
+    border-bottom: 1px solid #ccc; color: aqua;
+}
+   
+li:last-child {
+    border: none;
+}
+
+form {
+    height:110px;
+    width:190px;
+    margin:auto;
+    border:1px #CCC solid;
+    padding:10px;
+}
+    
+input, textarea {
+    padding:30px;
+    color: red;
+    margin:5px
+}
